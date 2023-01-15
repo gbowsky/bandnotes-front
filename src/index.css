@@ -1,0 +1,9 @@
+.Note {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 12px;
+}
+
+.UpperLink {
+  vertical-align: super;
+}
